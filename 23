@@ -1,0 +1,3 @@
+you can use in ssh to connect with new user
+ssh user@server_ip_address
+but in graphicly you have to go to system setings then go to users and groups and then add a new user
